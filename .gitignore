@@ -15,3 +15,8 @@
 /vendor/
 /web/bundles/
 .idea
+composer.lock
+composer.json
+README.md
+/bin/console
+/bin/symfony_requirements
