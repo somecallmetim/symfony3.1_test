@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
     "name": "ubuntu/project",
+=======
+    "name": "tim's-mac/project",
+>>>>>>> windowsBranch
     "license": "proprietary",
     "type": "project",
     "autoload": {
